@@ -1,0 +1,5 @@
+www:
+  type: ruby
+  approot: frontend
+data:
+  type: redis
